@@ -98,9 +98,13 @@ Or simply drag and drop `index.html` into any browser window.
 ## Author
 
 **Hassan Ayoub** — 2023
+
 **Afaq Hussain** - 2023
+
 **Areeba Kashif** - 2023
+
 **Abdul Qadir** - 2023
+
 **Fatima Naveed** - 2023
 
 ---
