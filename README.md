@@ -28,7 +28,14 @@ Breeo Travels is a front-end website for a Pakistan-based travel agency. It feat
 
 ## Screenshots
 
-> _Add screenshots here_
+**Landing Page**
+![Landing Page](https://github.com/hassanayoub409/breeo-travels/blob/08e415bb7e2667d04fe1c614cbdd713703a5d84e/landing_page.png)
+
+**Services Page**
+![Services Page](https://github.com/hassanayoub409/breeo-travels/blob/08e415bb7e2667d04fe1c614cbdd713703a5d84e/services.png)
+
+**Articles Page**
+![Articles Page](https://github.com/hassanayoub409/breeo-travels/blob/08e415bb7e2667d04fe1c614cbdd713703a5d84e/articles.png)
 
 ---
 
