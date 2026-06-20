@@ -1,0 +1,222 @@
+body{background-color: rgb(255, 255, 255);
+    margin: 0px;
+}
+h1{
+    color: #ef6724;
+    font-family:'Lucida Sans', Geneva, Verdana, sans-serif; 
+}
+#h1{
+    font-family:'Lucida Sans', Geneva, Verdana, sans-serif; 
+    text-align: center;
+}
+p{ 
+    font-size: large;
+    font-family:'Lucida Sans', Geneva, Verdana, sans-serif; 
+}
+.fline{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+#read{ 
+    color: antiquewhite;    
+    text-shadow: 5px 5px 7px  hsl(0, 0%, 3%) ;
+}
+button{
+    font-style: oblique;
+    font-weight: bold;
+    border-radius: 10px; 
+    box-shadow: 3px 3px 5px  hsl(0, 0%, 3%) ;
+    border-color: #ef6724;
+}
+h2{
+    color: #ef6724;
+    font-family:'Lucida Sans', Geneva, Verdana, sans-serif; 
+}
+h3{
+    color: #ef6724;
+    font-family:'Lucida Sans', Geneva, Verdana, sans-serif; 
+}
+#img{
+    float: right;
+}
+#div1{
+    border: 3px solid #ef6724;
+    border-radius: 20px;
+    padding: 20px;
+    background-image: url(/images/img7.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 90%;
+    margin: 60px;
+}
+#div2{
+    border: 3px solid #ef6724;
+    border-radius: 20px;
+    padding: 20px;
+    background-image: url(/images/img5.jpg);
+    background-attachment:fixed;
+    background-position: center;
+    background-size: 90%;
+    background-repeat: no-repeat;
+    margin: 60px;
+}
+ #div3{
+    border: 3px solid #ef6724;
+    border-radius: 20px;
+    padding: 20px;
+    background-image: url(/images/img6.jpg);
+    background-attachment:fixed;
+    background-position: center;
+    background-size: 90%;
+    background-repeat: no-repeat;
+    margin: 60px;
+}
+.art1{
+    margin: 100px;
+}
+.art2{
+    margin: 100px;
+}
+.art3{
+    margin: 100px;
+}
+
+/* header */
+.nav-bar{
+    position: fixed;
+    top: 0;
+    left: 0; 
+    height: 100px;
+    width: 100%;
+    z-index: 10;
+    color: white;
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.home-logo{
+    height: 70px;
+    width: 170px;
+    background-image: url("./images/logo.png");
+    background-size: cover; 
+}
+.nav-options{
+    height: 90px;
+    width: 630px;
+    display: flex;
+    align-items: center;
+}
+ul a{
+    color: black;
+    text-decoration: none;
+    margin-right: 70px;
+    font-size: 1rem;
+    font-weight: 548;  
+}
+ul a:hover{
+    color: #ef6724;
+    transition-delay: 140ms;
+    transition-timing-function: ease-in;
+}
+.nav-contact{
+    height: 40px;
+    width: 220px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    background-color: #ef6724;
+}
+.nav-contact a{
+    text-decoration: none;
+    font-size: 13px;
+    color: white;
+    font-weight: 500;
+    letter-spacing: 6px;
+    font-size: 12px;
+}
+span i{
+    margin-right:10px;
+}
+/* footer */
+.footpanel1{
+    background-color: #ef6724;
+    color: white;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    font-family:'Lucida Sans', Geneva, Verdana, sans-serif; 
+    letter-spacing: 1.5px;
+}
+.footpanel2{
+    margin-top: 100px;
+    height: 500px;
+    width: 100%;
+    background-color: #161c26;
+    filter: opacity(95%);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.foot{
+    height: 400px;
+    width: 23%;
+    color: #c5d2dd;
+    font-family:'Lucida Sans', Geneva, Verdana, sans-serif; 
+}
+#one{
+    width: 100%;
+    height: 100px;
+    padding-left: 70px;
+}
+#two{
+    width: 100%;
+    height: 200px;
+    font-size: 15px;
+    line-height: 40px;
+}
+#three{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 40px;
+}
+.menus{
+    color: #c5d2dd;
+}
+.close{
+    width: 100%;
+    height: 352px;
+}
+.email-close, .location-close, .phone-close{
+    width: 100%;
+    height: 117px;
+    display: flex;
+    align-items: center;
+    font-size: 12px;
+    line-height: 35px;
+}
+.cls{
+    color: #ef6724;
+    font-size: 50px;
+    padding-top: 1px;
+    padding-right: 25px;
+}
+.foot-panel-last{
+    background-color: #161c26;
+    color: #c5d2dd;
+    height: 80px;
+    font-size: 1rem;
+    letter-spacing: 3px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+.checked{
+    color: #ef6724;
+    font-size:small;
+}
