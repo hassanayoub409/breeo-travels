@@ -95,7 +95,7 @@ Or simply drag and drop `index.html` into any browser window.
 
 ---
 
-## Author
+## Authors
 
 **Hassan Ayoub** — 2023
 
