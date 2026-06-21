@@ -70,7 +70,7 @@ No build tools or dependencies needed. Just open the project in your browser:
 ```bash
 # Clone the repository
 git clone https://github.com/hassanayoub409/breeo-travels.git
-cd Breeo-Travels
+cd breeo-travels
 
 # Open in browser
 open index.html        # macOS
